@@ -7,12 +7,12 @@
 ## Getting Started
 ```bash
 # Frontend
-cd frontend
+cd frontend-final
 npm install
 npm start
 
 # Backend
-cd backend
+cd backend-final
 npm install
 node src/index.js
 ```
