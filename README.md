@@ -16,28 +16,6 @@ cd backend
 npm install
 node src/index.js
 ```
-Project Architecture
-Project-Folder-final/
-│
-├── backend-final/                
-│   ├── src/
-│   │   └── index.js              
-│   ├── .env                     
-│   ├── package.json              
-│   └── ...
-│
-├── frontend-final/             
-│   ├── public/
-│   │   ├── index.html            # HTML template
-│   │   └── ...                   
-│   ├── src/                      # React components and app logic
-│   ├── package.json              # Frontend dependencies and scripts
-│   └── ...
-│
-├── .gitignore                   
-├── README.md                    
-└── ...
-
 
 Features:- 
 Astronomy Picture of the Day (APOD): Displays daily astronomy-related images and their explanations.
