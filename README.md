@@ -6,15 +6,19 @@
 
 ## Getting Started
 ```bash
-# Frontend
-cd frontend-final
-npm install
-npm start
 
 # Backend
 cd backend-final
 npm install
 node src/index.js
+
+# Frontend
+cd frontend-final
+npm install
+npm start
+
+
+Start the backend first and then start the frontend 
 ```
 
 Features:- 
